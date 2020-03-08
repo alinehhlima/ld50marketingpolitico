@@ -1,0 +1,4 @@
+[01-Feb-2020 21:39:49 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home2/ld50ma12/public_html/wp-includes/class-wp-query.php on line 2197
+[01-Feb-2020 21:39:49 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home2/ld50ma12/public_html/wp-includes/canonical.php on line 217
+[01-Feb-2020 21:39:59 UTC] PHP Warning:  urldecode() expects parameter 1 to be string, array given in /home2/ld50ma12/public_html/wp-includes/class-wp-query.php on line 2197
+[01-Feb-2020 21:39:59 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /home2/ld50ma12/public_html/wp-includes/canonical.php on line 217

@@ -1,0 +1,3 @@
+[02-Apr-2019 15:23:00 UTC] Erro de banco de dados do WordPress Unknown column 'wp_' in 'field list' para a consulta SELECT wp_
+[07-Apr-2019 23:43:42 UTC] PHP Warning:  unlink(/home2/ld50ma12/public_html/wp-content/uploads/elementor/tmp/5caa8b2e66a17/elementor): Is a directory in /home2/ld50ma12/public_html/wp-content/plugins/elementor/includes/template-library/sources/local.php on line 810
+[18-Apr-2019 23:58:02 UTC] Erro de banco de dados do WordPress Duplicate column name 'date' para a consulta ALTER TABLE `wp_formmaker_backup` ADD `date` int(10) NOT NULL feita por do_action('admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, WDFM->form_maker_activate, WDFMUpdate::form_maker_update

@@ -1,0 +1,15 @@
+.panel-elements-category-title-eb-elementor-extended {
+    background-color: #9b0a46;
+    color: #fff;
+    margin: 5px 10px;
+    border-radius: 3px;
+}
+.eb-button-icon {
+	height: 35px
+}
+i.eicon-eb-button-extended {
+    background-image: url("../images/eb-button-icon.png");
+    height: 30px;
+    width: 30px;
+    background-size: 30px 30px;
+}
